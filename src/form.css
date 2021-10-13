@@ -1,0 +1,9 @@
+.radio inline {
+  float: inline-start;
+}
+#education-0,
+#education-1,
+#education-2,
+#education-3 {
+  margin: 0 7px;
+}
